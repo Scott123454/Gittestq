@@ -1,0 +1,1 @@
+If the master branch has changed since you forked off your branch you can add the amendments to your forked branch by fethcing the changes using 'fetch upstream'
